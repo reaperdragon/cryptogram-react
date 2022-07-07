@@ -12,3 +12,7 @@ REACT_APP_NEWS_RAPIDAPI_HOST = 'your_host_key_news' <br />
 
 ### After this Run the project with 
 ```npm start```
+
+Screenshot
+
+![Cryptogram](https://user-images.githubusercontent.com/67114280/177779616-c54e56fb-005b-4b46-a7b6-364524e042f5.png)
