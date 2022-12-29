@@ -7,11 +7,11 @@ The cyrptogram-app was created using React Js, Rapid API, and All the CSS Magic 
 ### Add .env file in root directory of the project
 
 ```
-REACT_APP_RAPIDAPI_KEY = 'your_rapidapi_key' <br />
-REACT_APP_CRYPTO_RAPIDAPI_HOST ='your_host_key_crypto' <br />
-REACT_APP_CRYPTO_API_URL = 'your_base_url_crypto' <br />
-REACT_APP_NEWS_API_URL = 'your_base_url_news' <br />
-REACT_APP_NEWS_RAPIDAPI_HOST = 'your_host_key_news' <br />
+REACT_APP_RAPIDAPI_KEY = 'your_rapidapi_key' 
+REACT_APP_CRYPTO_RAPIDAPI_HOST ='your_host_key_crypto' 
+REACT_APP_CRYPTO_API_URL = 'your_base_url_crypto' 
+REACT_APP_NEWS_API_URL = 'your_base_url_news' 
+REACT_APP_NEWS_RAPIDAPI_HOST = 'your_host_key_news' 
 ```
 
 ### After this Run the project with 
