@@ -1,7 +1,5 @@
 # Cryptogram-react is built with reactjs rapid-api
 
-The cyrptogram-app was created using React Js, Rapid API, and All the CSS Magic in Ant-Design. You may filter or search the news according to your needs, and it provides news on cryptocurrencies.
-
 ## [Demo](https://cryptogramv1.netlify.app/)
 
 ### Add .env file in root directory of the project
